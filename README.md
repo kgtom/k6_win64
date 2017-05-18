@@ -47,3 +47,4 @@ export default function() {
   http.get("http://test.loadimpact.com");
 };
 
+执行输出数据，各个参数解释： 参考官网
